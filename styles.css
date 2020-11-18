@@ -1,0 +1,28 @@
+.image {
+    height: 300px;
+    width: 300px;
+    background-color: chartreuse;
+    border: solid;
+    transform: rotate(-35deg);
+    margin-left: 55px;
+    margin-top: 70px;
+}
+.logo {
+    height: 200px;
+    width: 200px;
+    background-color: chartreuse;
+    border: solid;
+    transform: rotate(-35deg);
+    margin-left: 36px;
+}
+
+
+
+
+
+
+
+p:hover {
+    transform-origin: center;
+    transform: rotate(90deg);
+}
